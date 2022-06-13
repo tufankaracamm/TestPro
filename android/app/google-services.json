@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "314030642091",
+    "firebase_url": "https://fitness-b39ec-default-rtdb.firebaseio.com",
+    "project_id": "fitness-b39ec",
+    "storage_bucket": "fitness-b39ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314030642091:android:b692cafe76a59814a9b8ee",
+        "android_client_info": {
+          "package_name": "com.example.denemefitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314030642091-6k1l5qm52op16s88lhvqtl07fn5rl5sc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxazUxqnBQB-EY7BExN0MowCSjwvG1gyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314030642091-6k1l5qm52op16s88lhvqtl07fn5rl5sc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
